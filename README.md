@@ -1,22 +1,8 @@
 ### Hi there 👋
   I am deo Saju ,and u can call me Lopzboy !   
   📫 How to reach me :
-        
         Gmail :: deosaju2260@gmail.com
         
-        
         Discord :: LopzBoy#6652
-             
-<!--
-**Deosaju/DeoSaju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about .. ...
-- 😄 Pronouns: ...
-- : ...
--->
+   As any programmer,trying to automate things i do daily !
+   Still things are not so hard to be automated all it needed is some patience!
