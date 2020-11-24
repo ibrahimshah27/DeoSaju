@@ -1,7 +1,10 @@
 ### Hi there 👋
   I am deo Saju ,and u can call me Lopzboy !   
   📫 How to reach me :
+        
         Gmail :: deosaju2260@gmail.com
+        
+        
         Discord :: LopzBoy#6652
              
 <!--
