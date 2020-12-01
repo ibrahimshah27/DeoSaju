@@ -2,7 +2,7 @@
 ###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
 
 
-![](https://github.com/zeeshanovic/Zeeshanovic/blob/master/SYED.gif)
+![code-fi / lofi beats to code/relax to](https://i.makeagif.com/media/12-01-2020/3KqAg5.gif)
 
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
