@@ -2,36 +2,35 @@
 ###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
-    <strong>As any programmer</strong>,trying to <strong>automate</strong> things i do daily !Still things are not so hard to be automated all it needed is some patience!
+    <strong>As any programmer</strong>,<strong>automates</strong> things i do daily !
     <div id="Status">
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
       </a> 
      <div>
 </div>
+<div id="Social_med">
 <p align="center">
   
   <a title="Instagram" href="https://instagram.com/deo_saju">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+  <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
   </a>
-  
   <a title="Facebook" href="https://facebook.com/Deo saju">
-    <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="50" height="50" />
+    <img src="https://img.icons8.com/android/50/000000/facebook-new.png"/>
   </a>
  
   <a title="LinkedIn" href="https://www.linkedin.com/in/Deosaju/">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+  <img src="https://img.icons8.com/fluent-systems-filled/24/000000/linkedin.png"/>
   </a>
   
   <a title="Email" href="mailto:deosaju2260@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+  <img src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
   </a>
   
   <a title="Discord" href="discord.com/LopzBoy#6652">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+  <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png">
   </a>
-  LopzBoy#6652
- </p>
+ </div>
 
 
 ## Working with ◑﹏◐
