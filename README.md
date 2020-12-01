@@ -3,7 +3,9 @@
   <div>
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
     <strong>As any programmer,trying to automate things i do daily !Still things are not so hard to be automated all it needed is some patience!</strong>
-  <img src="https://giphy.com/embed/lo5HLcAPFSgTZNTpAn" alt="HaCKer" style="width:128px;height:128px;">
+  <video>
+    <source src="https://media.giphy.com/media/lo5HLcAPFSgTZNTpAn/giphy.mp4">
+  </video>
     <a align="left" href="https://github.com/deosaju/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
     </a> 
