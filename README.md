@@ -15,8 +15,7 @@
        <a align="right" href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-     <div>
-      <div >
+        <div align="right">
        <a title="Instagram" href="https://instagram.com/deo_saju">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
     </a>
@@ -33,6 +32,8 @@
     <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png">
     </a>
       </div>
+     <div>
+      
 </div>
       
 ## Working with ◑﹏◐
