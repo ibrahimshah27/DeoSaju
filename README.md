@@ -1,13 +1,13 @@
 ### Hi there 👋
   I am [DeoSaju!](http://deosaju.github.io/codead) 👋
-  <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
-   <strong>As any programmer,trying to automate things i do daily !Still things are not so hard to be automated all it needed is some patience!</strong>
-<img align="left" width="150" height="150" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif?raw=true">
-
-<a align="left" href="https://github.com/deosaju/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
-</a> 
-
+  <div>
+    <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
+    <strong>As any programmer,trying to automate things i do daily !Still things are not so hard to be automated all it needed is some patience!</strong>
+    <img align="right" width="150" height="150" src="https://media.giphy.com/media/lo5HLcAPFSgTZNTpAn/giphy.gif?raw=true">
+    <a align="left" href="https://github.com/deosaju/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
+    </a> 
+</div>
 <p align="center">
   
   <a title="Instagram" href="https://instagram.com/deo_saju">
