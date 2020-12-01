@@ -26,7 +26,8 @@
     <a title="Discord" href="discord.com/LopzBoy#6652">
     <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png">
     </a>
- </div>
+  </div>
+</div>
 
 ## Working with ◑﹏◐
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
