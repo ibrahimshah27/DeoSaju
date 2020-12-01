@@ -1,15 +1,27 @@
 ### Hi,
 ###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
+
+
+![](https://github.com/zeeshanovic/Zeeshanovic/blob/master/SYED.gif)
+
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
-    <strong>As any programmer</strong>,<strong>automates</strong> things i do daily !
+    <p>
+      - 🔭 I’m currently Student at Jyothi engineering college thrissur,kerala
+      - 🌱 I’m currently learning Python and Java
+      - 👯 I’m looking to do project Rapid_adapt
+      - 💬 Ask me about Hardware,Coding(java,Html,C)
+    </p>
     <div id="Status">
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
-      </a> 
+      </a>
+       <a align="right" href="https://github.com/shravan20/LearningResources">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeoSaju&repo=LearningResources&theme=gotham" />
+    </a>
      <div>
-      <div align="right">
-           <a title="Instagram" href="https://instagram.com/deo_saju">
+      <div >
+       <a title="Instagram" href="https://instagram.com/deo_saju">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
     </a>
     <a title="Facebook" href="https://facebook.com/Deo saju">
