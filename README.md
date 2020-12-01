@@ -1,8 +1,8 @@
 ### Hi,
 ###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
-<div>
-<img width="150" height="150" src="https://i.makeagif.com/media/12-01-2020/3KqAg5.gif">
-</div>
+<p align="center">
+  <img src="header.png" alt="header"/>
+</p>
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
     <p>
