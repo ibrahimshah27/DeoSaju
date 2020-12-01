@@ -8,10 +8,8 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
       </a> 
      <div>
-</div>
-<div id="Social_med">
-  <div align="center>
-    <a title="Instagram" href="https://instagram.com/deo_saju">
+      <div align="right">
+           <a title="Instagram" href="https://instagram.com/deo_saju">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
     </a>
     <a title="Facebook" href="https://facebook.com/Deo saju">
@@ -26,9 +24,9 @@
     <a title="Discord" href="discord.com/LopzBoy#6652">
     <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png">
     </a>
-  </div>
+      </div>
 </div>
-
+      
 ## Working with ◑﹏◐
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
