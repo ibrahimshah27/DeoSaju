@@ -7,21 +7,13 @@
       - 🔭 I’m currently Student at Jyothi engineering college thrissur,kerala
       - 🌱 I’m currently learning Python and Java
       - 👯 I’m looking to do project Rapid_adapt
-      - 💬 Ask me about Hardware,Coding(java,Html,C)
-    </p>
-  <p align="center">
-   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-   
-    
+      - 💬 Ask me about Hardware,Coding(java,Html,C)    
   </p>  
   <div id="Status">
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
-      </a>
-       <a align="right" href="https://github.com/shravan20/LearningResources">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DeoSaju&repo=LearningResources&theme=gotham" />
+       <a align="right" href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
      <div>
       <div >
