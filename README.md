@@ -2,7 +2,7 @@
   I am deo Saju ,and u can call me Lopzboy !   
   📫 How to reach me :
         Gmail :: deosaju2260@gmail.com
-        <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=Red">
+        <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=skyblue">
         
         
         Discord :: LopzBoy#6652
