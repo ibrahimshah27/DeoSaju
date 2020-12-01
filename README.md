@@ -1,28 +1,28 @@
 ### Hi there 👋
-  I am [DeoSaju!](https://deosaju.github.io) 👋
-
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
-        <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
-        
+  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
+  <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
         
         Discord :: LopzBoy#6652
-   As any programmer,trying to automate things i do daily !
-   Still things are not so hard to be automated all it needed is some patience!
- <a href="https://github.com/anuraghazra/github-readme-stats">
+   <strong>As any programmer,trying to automate things i do daily !<br>Still things are not so hard to be automated all it needed is some patience!</strong>
+ <a href="https://github.com/deosaju/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
-</a>
+</a>  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
+<p align="center">
+  
+  <a title="Instagram" href="https://instagram.com/deo_saju">
+    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Facebook" href="https://facebook.com/Deo saju">
+    <img src="https://cdn.mos.cms.futurecdn.net/uazw6gFQuEC29mxMM55Tpb-1200-80.jpg" width="50" height="50" />
+  </a>
+ 
+  <a title="LinkedIn" href="https://www.linkedin.com/in/Deosaju/">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
+  </a>
+  
+  <a title="Email" href="mailto:deosaju2260@gmail.com">
+    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-512.png" width="50" height="50" />
+  </a>
+ </p>
