@@ -11,13 +11,12 @@
       - 👯 I’m looking to do project Rapid_adapt<br>
       - 💬 Ask me about Hardware,Coding(java,Html,C)<br>    
   </p>  
-  <div id="Status">
+  <div id="Status" align="right">
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
        <a align="right" href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-        <div align="right">
        <a title="Instagram" href="https://instagram.com/deo_saju">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
     </a>
@@ -33,7 +32,6 @@
     <a title="Discord" href="discord.com/LopzBoy#6652">
     <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png">
     </a>
-      </div>
      <div>
       
 </div>
