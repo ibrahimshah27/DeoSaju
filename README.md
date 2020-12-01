@@ -11,25 +11,25 @@
       - 👯 I’m looking to do project Rapid_adapt<br>
       - 💬 Ask me about Hardware,Coding(java,Html,C)<br>    
   </p>  
-  <div id="Status" align="right">
+  <div id="Status" >
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
        <a align="right" href="https://github.com/anuraghazra/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-       <a title="Instagram" href="https://instagram.com/deo_saju">
+       <a align="right" title="Instagram" href="https://instagram.com/deo_saju">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
     </a>
-    <a title="Facebook" href="https://facebook.com/Deo saju">
+    <a  align="right" title="Facebook" href="https://facebook.com/Deo saju">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/facebook-new.png"/>
     </a>
-    <a title="LinkedIn" href="https://www.linkedin.com/in/Deosaju/">
+    <a  align="right" title="LinkedIn" href="https://www.linkedin.com/in/Deosaju/">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/linkedin.png"/>
     </a>
-    <a title="Email" href="mailto:deosaju2260@gmail.com">
+    <a  align="right" title="Email" href="mailto:deosaju2260@gmail.com">
     <img src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
     </a>
-    <a title="Discord" href="discord.com/LopzBoy#6652">
+    <a  align="right" title="Discord" href="discord.com/LopzBoy#6652">
     <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png">
     </a>
      <div>
