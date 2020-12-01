@@ -4,10 +4,10 @@
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
     <p>
-      - 🔭 I’m currently Student at Jyothi engineering college thrissur,kerala
-      - 🌱 I’m currently learning Python and Java
-      - 👯 I’m looking to do project Rapid_adapt
-      - 💬 Ask me about Hardware,Coding(java,Html,C)    
+      - 🔭 I’m currently Student at Jyothi engineering college thrissur,kerala<br>
+      - 🌱 I’m currently learning Python and Java<br>
+      - 👯 I’m looking to do project Rapid_adapt<br>
+      - 💬 Ask me about Hardware,Coding(java,Html,C)<br>    
   </p>  
   <div id="Status">
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
