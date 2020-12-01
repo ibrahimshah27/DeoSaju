@@ -1,14 +1,13 @@
-### Hi there 👋
-  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
-  <div>
+### Hi,
+###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
+  <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
-    <strong>As any programmer,trying to automate things i do daily !Still things are not so hard to be automated all it needed is some patience!</strong>
-  <video>
-    <source src="https://media.giphy.com/media/lo5HLcAPFSgTZNTpAn/giphy.mp4">
-  </video>
-    <a align="left" href="https://github.com/deosaju/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
-    </a> 
+    <strong>As any programmer</strong>,trying to <strong>automate</strong> things i do daily !Still things are not so hard to be automated all it needed is some patience!
+    <div id="Status">
+      <a align="left" href="https://github.com/deosaju/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
+      </a> 
+     <div>
 </div>
 <p align="center">
   
