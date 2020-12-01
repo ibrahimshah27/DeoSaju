@@ -9,8 +9,14 @@
       - 👯 I’m looking to do project Rapid_adapt
       - 💬 Ask me about Hardware,Coding(java,Html,C)
     </p>
-  ![](https://github-readme-stats.vercel.app/api?username=DeoSaju)(https://github.com/anuraghazra/github-readme-stats)
-    <div id="Status">
+  <p align="center">
+   <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+   
+    
+  </p>  
+  <div id="Status">
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
       </a>
