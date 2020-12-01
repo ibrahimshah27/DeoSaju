@@ -16,8 +16,8 @@
   <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
   </a>
   <a title="Facebook" href="https://facebook.com/Deo saju">
-    <img src="https://img.icons8.com/android/50/000000/facebook-new.png"/>
-  </a>
+    <img src="https://img.icons8.com/fluent-systems-filled/24/000000/facebook-new.png"/>
+</a>
  
   <a title="LinkedIn" href="https://www.linkedin.com/in/Deosaju/">
   <img src="https://img.icons8.com/fluent-systems-filled/24/000000/linkedin.png"/>
