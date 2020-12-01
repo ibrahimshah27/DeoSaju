@@ -1,9 +1,6 @@
 ### Hi,
 ###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
 
-
-![code-fi / lofi beats to code/relax to](https://i.makeagif.com/media/12-01-2020/3KqAg5.gif)
-
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
     <p>
@@ -12,6 +9,7 @@
       - 👯 I’m looking to do project Rapid_adapt
       - 💬 Ask me about Hardware,Coding(java,Html,C)
     </p>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DeoSaju)](https://github.com/anuraghazra/github-readme-stats)
     <div id="Status">
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
