@@ -13,9 +13,8 @@
   </p>  
   <div id="Status" >
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" /></a>
        <a align="right" href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/DeoSaju/github-readme-stats/workflows/Test/badge.svg" />
     </a>
        <a align="right" title="Instagram" href="https://instagram.com/deo_saju">
     <img src="https://img.icons8.com/fluent-systems-filled/24/000000/instagram-new.png"/>
