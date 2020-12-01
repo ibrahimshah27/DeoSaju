@@ -1,12 +1,12 @@
 ### Hi there 👋
   I am [DeoSaju!](http://deosaju.github.io/codead) 👋
   <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
-   <strong>As any programmer,trying to automate things i do daily !<br>Still things are not so hard to be automated all it needed is some patience!</strong>
- <a href="https://github.com/deosaju/github-readme-stats">
+   <strong>As any programmer,trying to automate things i do daily !Still things are not so hard to be automated all it needed is some patience!</strong>
+<a href="https://github.com/deosaju/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
 </a> 
 
-<img src="https://github.com/Deosaju/DeoSaju/blob/main/Pic.jpg" >
+<img width="150" height="150" src="https://github.com/Deosaju/DeoSaju/blob/main/Pic.jpg">
 
 <p align="center">
   
