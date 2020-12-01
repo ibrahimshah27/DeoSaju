@@ -1,6 +1,7 @@
 ### Hi,
 ###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
 
+<a href="/gif/code-fi-lofi-beats-to-coderelax-to-3KqAg5" title="code-fi / lofi beats to code/relax to"><img src="https://i.makeagif.com/media/12-01-2020/3KqAg5.gif" alt="code-fi / lofi beats to code/relax to"></a><div style="font-size:11px;">
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
     <p>
