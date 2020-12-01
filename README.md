@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
 </a> 
 
-<img src="https://raw.githubusercontent.com/Deosaju/Deosaju/master/Pic.jpg" >
+<img src="https://github.com/Deosaju/DeoSaju/blob/main/Pic.jpg" >
 
 <p align="center">
   
