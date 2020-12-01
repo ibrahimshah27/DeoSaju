@@ -3,7 +3,7 @@
   <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
    <strong>As any programmer,trying to automate things i do daily !Still things are not so hard to be automated all it needed is some patience!</strong>
 
-<img width="150" height="150" src="https://github.com/Deosaju/DeoSaju/blob/main/Pic.jpg">
+<img width="1500" height="1500" src="https://github.com/Deosaju/DeoSaju/blob/main/IMG_5554.jpg">
 <a align="left" href="https://github.com/deosaju/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeoSaju&layout=compact&theme=material-palenight" />
 </a> 
