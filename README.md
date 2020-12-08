@@ -28,8 +28,7 @@
     <a  align="right" title="Email" href="mailto:deosaju2260@gmail.com">
     <img src="https://img.icons8.com/material-sharp/24/000000/email.png"/>
     </a>
-    <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png">ID :: LopzBoy#6652</img>
-    
+    <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png"> ID :: LopzBoy#6652</img>
      <div>
       
 </div>
