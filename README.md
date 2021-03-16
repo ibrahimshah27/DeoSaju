@@ -42,3 +42,6 @@
 
 ## Mine me bitcoin :: 37wgWNgVwtPGLeLdTMzWYvdUhbq4YTEJEW
 
+# DiscordServer : [link](https://discord.gg/yHhNaURXW7)
+
+Join here ! 16x7 Active hope i would help u in times !
