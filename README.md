@@ -40,7 +40,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-## Mine me bitcoin :: 37wgWNgVwtPGLeLdTMzWYvdUhbq4YTEJEW
+## Donate Ether (ETH) : 0x0Fd8348A05e93c703253c23763D4E836529BC87E
 
 # DiscordServer : [link](https://discord.gg/yHhNaURXW7)
 
