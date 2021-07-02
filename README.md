@@ -42,6 +42,3 @@
 
 ## Donate Ether (ETH) : 0x0Fd8348A05e93c703253c23763D4E836529BC87E
 
-# DiscordServer : [link](https://discord.gg/yHhNaURXW7)
-
-Join here ! 16x7 Active hope i would help u in times !
