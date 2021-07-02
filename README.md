@@ -1,5 +1,5 @@
 ### Hi,
-###  I am [DeoSaju!](http://deosaju.github.io/codead) 👋
+###  I am [DeoSaju!](http://deosaju.tk) 👋
 <p align="center">
   <img src="header.png" alt="header"/>
 </p>
