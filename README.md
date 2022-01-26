@@ -7,9 +7,9 @@
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
     <p>
       - 🔭 I’m currently Student at Jyothi engineering college thrissur,kerala<br>
-      - 🌱 I’m currently learning Python and Java<br>
-      - 👯 I’m looking to do project Rapid_adapt<br>
-      - 💬 Ask me about Hardware,Coding(java,Html,C)<br>    
+      - 🌱 I’m currently learning Rust and Nodejs<br>
+      - 👯 I’m looking to do project Xdyor<br>
+      - 💬 Don't ask me anything, I'm quit busy !   
   </p>  
   <div id="Status" >
       <a align="left" href="https://github.com/deosaju/github-readme-stats">
