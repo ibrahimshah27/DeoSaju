@@ -31,13 +31,6 @@
      <div>
     <img src="https://img.icons8.com/material-sharp/24/000000/discord-logo.png"> ID :: LopzBoy#6652</img>
 </div>
-      
-## Working with ◑﹏◐
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Python](https://img.shields.io/badge/-Python-ffff47?style=flat-square&logo=python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
 ## Donate Ether (ETH) : 0x0Fd8348A05e93c703253c23763D4E836529BC87E
