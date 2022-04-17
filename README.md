@@ -1,5 +1,5 @@
 ### Hi,
-###  I am [DeoSaju!](http://deosaju.tk) 👋
+###  I am [DeoSaju!](https://deosaju.github.io/deo-saju) 👋
 <p align="center">
   <img src="Header.png" alt="header"/>
 </p>
