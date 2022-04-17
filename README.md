@@ -1,7 +1,7 @@
 ### Hi,
 ###  I am [DeoSaju!](http://deosaju.tk) 👋
 <p align="center">
-  <img src="header.png" alt="header"/>
+  <img src="Header.png" alt="header"/>
 </p>
   <div id="Intro_Say_hai">
     <img align=right src="https://komarev.com/ghpvc/?username=DeoSaju&color=brightgreen">
