@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deo Saju</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deosaju&label=Profile%20views&color=0e75b6&style=flat" alt="deosaju" /> </p>
-![img](https://github.com/Deosaju/DeoSaju/blob/main/Header.png)
+<p align="center">
+  <img src="Header.png" alt="header"/>
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deosaju" alt="deosaju" /></a> </p>
 
 - 🔭 I’m currently working on **React**
