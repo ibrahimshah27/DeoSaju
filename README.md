@@ -19,6 +19,8 @@
 
 - 📫 How to reach me **deosaju2260@gmail.com**
 
+- Resume [CV -Link](https://github.com/Deosaju/DeoSaju/blob/main/REsume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/deo_saju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deo_saju" height="30" width="40" /></a>
