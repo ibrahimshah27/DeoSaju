@@ -11,7 +11,6 @@
 
 - 👯 I’m looking to collaborate on **Rust**
 
-- 🤝 I’m looking for help with **----------**
 
 - 👨‍💻 All of my projects are available at [github.com/deosaju](github.com/deosaju)
 
