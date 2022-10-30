@@ -11,10 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Rust**
 
-
 - 👨‍💻 All of my projects are available at [github.com/deosaju](github.com/deosaju)
-
-- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **deosaju2260@gmail.com**
 
